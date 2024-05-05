@@ -1,0 +1,95 @@
+post,sentimiento
+"Hoy disfruté de un delicioso almuerzo con amigos.",1
+"Estoy tan emocionado por mi próximo viaje.",1
+"Qué día tan hermoso para salir a caminar por el parque.",1
+"Mi corazón está roto. No puedo creer que haya terminado así.",-1
+"¡Acabo de conseguir un nuevo trabajo! ¡Estoy tan feliz!",1
+"La vida a veces puede ser difícil, pero sigo adelante.",0
+"Estoy cansado de todo el drama en las redes sociales.",-1
+"¡Felicidades a mi mejor amigo por su boda!",1
+"¡Hoy es mi cumpleaños y estoy emocionado por lo que el año nuevo traerá!",1
+"Este año ha sido un desafío, pero estoy agradecido por todas las lecciones aprendidas.",0
+"La comida en este restaurante es increíble. Definitivamente volveré.",1
+"¿Alguien más está emocionado por la nueva temporada de su serie favorita?",1
+"Perdí a mi mascota hoy. Estoy devastado.",-1
+"¡Finalmente terminé mi proyecto y estoy orgulloso del resultado final!",1
+"Estoy abrumado por todo lo que tengo que hacer.",-1
+"¡Hoy es un día de fiesta nacional en mi país! ¡Vamos a celebrar!",1
+"¿Alguien tiene recomendaciones para libros interesantes?",0
+"Me siento agradecido por las pequeñas cosas en la vida.",1
+"La música siempre me levanta el ánimo.",1
+"Odio estar enfermo. Espero recuperarme pronto.",-1
+"Acabo de ver una película que me dejó pensando durante horas.",0
+"¡Hoy es un día de descanso bien merecido!",1
+"Las risas con amigos son siempre las mejores.",1
+"Estoy nervioso por la entrevista de trabajo de mañana.",-1
+"La lluvia siempre me pone de buen humor.",1
+"¡Qué hermoso atardecer! No puedo resistirme a tomar una foto.",1
+"Las noticias de hoy me han dejado sin palabras.",-1
+"¡Es viernes! ¡Vamos a divertirnos este fin de semana!",1
+"Mi libro favorito acaba de lanzar una nueva secuela. ¡No puedo esperar para leerlo!",1
+"Mi corazón está lleno de gratitud por todas las personas increíbles en mi vida.",1
+"Me siento un poco perdido últimamente.",-1
+"¡Hoy es un buen día para probar algo nuevo!",1
+"Las vacaciones están a la vuelta de la esquina y estoy emocionado.",1
+"Extraño a mi familia que está lejos.",-1
+"¡Acabo de terminar de decorar mi hogar y se ve increíble!",1
+"Estoy emocionado por comenzar este nuevo proyecto.",1
+"La playa siempre me hace sentir en paz.",1
+"¡Qué lindo cachorro! Me encantaría tener uno.",1
+"Estoy cansado de la negatividad en el mundo.",-1
+"La comida casera siempre es la mejor.",1
+"Mi corazón está lleno de amor por mi familia y amigos.",1
+"¿Alguien más ama el olor a café por la mañana?",1
+"Estoy cansado de la política en las redes sociales.",-1
+"Me siento inspirado después de leer un libro motivador.",1
+"¡Hoy es un día para celebrar los éxitos!",1
+"La naturaleza siempre me recuerda la belleza de la vida.",1
+"Estoy preocupado por el cambio climático y su impacto en nuestro planeta.",-1
+"¡Acabo de ver una película de terror y todavía estoy temblando!",-1
+"La música siempre está ahí para mí cuando lo necesito.",1
+"¡Estoy tan agradecido por el apoyo de mis amigos y familiares!",1
+"La tecnología moderna a veces puede ser abrumadora.",-1
+"¡El arte callejero siempre me sorprende!",1
+"Estoy cansado de la negatividad en las noticias.",-1
+"La primavera está en el aire y estoy emocionado por lo que está por venir.",1
+"Estoy emocionado por mi próximo viaje a un lugar exótico.",1
+"¡Hoy es un buen día para hacer algo amable por alguien más!",1
+"Estoy tan feliz de haber encontrado el amor verdadero.",1
+"La nostalgia a veces puede ser abrumadora.",-1
+"¡Acabo de ver un espectáculo increíble y todavía estoy asombrado!",1
+"La soledad a veces puede ser difícil de sobrellevar.",-1
+"¡Estoy tan emocionado por el concierto de esta noche!",1
+"¡Hoy es un buen día para relajarse y tomar las cosas con calma!",1
+"La amistad verdadera es una de las cosas más preciosas de la vida.",1
+"Estoy cansado de la negatividad en las redes sociales.",-1
+"¡Acabo de leer un libro que me dejó sin aliento!",1
+"La diversidad es lo que hace que nuestro mundo sea hermoso.",1
+"Estoy emocionado por el futuro y las oportunidades que vendrán.",1
+"¡La comida picante es mi favorita! Me encanta el sabor y el calor.",1
+"Estoy cansado de la violencia en el mundo.",-1
+"¡Hoy es un buen día para disfrutar de las pequeñas cosas de la vida!",1
+"Me siento optimista sobre lo que el futuro traerá.",1
+"La música siempre me ayuda a desconectar del mundo.",1
+"Estoy emocionado por el próximo capítulo de mi vida.",1
+"La danza es una forma increíble de expresión.",1
+"¡Hoy es un día perfecto para pasar tiempo al aire libre!",1
+"La tecnología moderna a veces puede ser intimidante.",-1
+"Estoy emocionado por mi próxima aventura.",1
+"La bondad de los extraños me llena de esperanza.",1
+"Estoy emocionado por el crecimiento personal que he experimentado últimamente.",1
+"¡Qué maravilloso es encontrar belleza en lugares inesperados!",1
+"La música siempre me ayuda a mantener la calma en tiempos difíciles.",1
+"Estoy cansado de la negatividad en las redes sociales.",-1
+"¡Hoy es un buen día para hacer algo amable por alguien más!",1
+"La amistad verdadera es una de las cosas más preciosas de la vida.",1
+"Estoy emocionado por el próximo capítulo de mi vida.",1
+"La danza es una forma increíble de expresión.",1
+"¡Hoy es un día perfecto para pasar tiempo al aire libre!",1
+"La tecnología moderna a veces puede ser intimidante.",-1
+"Estoy emocionado por mi próxima aventura.",1
+"La bondad de los extraños me llena de esperanza.",1
+"Estoy emocionado por el crecimiento personal que he experimentado últimamente.",1
+"¡Qué maravilloso es encontrar belleza en lugares inesperados!",1
+"La música siempre me ayuda a mantener la calma en tiempos difíciles.",1
+"Estoy cansado de la negatividad en las redes sociales.",-1
